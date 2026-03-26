@@ -2,6 +2,7 @@
 name: openclaw-workflow-analyzer
 clawhub-slug: openclaw-workflow-analyzer
 clawhub-owner: fangshan101-coder
+homepage: https://github.com/fangshan101-coder/openclaw-workflow-analyzer
 description: |-
   分析用户的工作流程，判断哪些环节可以用 OpenClaw（个人 AI Agent）自动化实现。
   将工作流拆解为子流程，按 ⭐1-10 星难度阶梯评估可行性，对第三方数据依赖主动确认可用性，
